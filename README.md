@@ -1,2 +1,2 @@
 # ISH710Manoj
-Intershop710 training module
+Intershop710 training module CRUD
